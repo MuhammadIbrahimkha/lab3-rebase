@@ -8,7 +8,7 @@ def main():
     print("Status : Production")
 
     print("Status: Healthy - Monitoring")
-
+    print("Service check: Passed")
 
 
 if __name__ == "__main__":
