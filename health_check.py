@@ -5,7 +5,7 @@ Simple Python Health-Check Program
 
 def main():
     print("=== Health Check ===")
-    print("Status: Healthy")
+    print("Status :Production")
 
 
 if __name__ == "__main__":
